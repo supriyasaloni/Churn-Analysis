@@ -10,7 +10,7 @@ The objective is to identify high-risk customer segments, understand factors ass
 
 ### 2. Core Tech Stack
 
-* **Python:** NumPy, Pandas
+* **Python:** NumPy, Pandas,Power BI
 * **SQL / SQLite3:** Data extraction and analysis
 * **Matplotlib & Seaborn:** Data visualization
 * **Data Cleaning & Feature Engineering**
@@ -25,3 +25,10 @@ The objective is to identify high-risk customer segments, understand factors ass
 * **Data Analysis:** Performed aggregation, `GROUP BY`, and pivot-table based analysis.
 * **Data Visualization:** Created visualizations using Matplotlib and Seaborn.
 * **Business Insights:** Identified key churn patterns and translated findings into actionable business recommendations.
+
+
+### 3. Dashboard Overview
+
+
+<img width="873" height="492" alt="Screenshot 2026-09-22 182231" src="https://github.com/user-attachments/assets/e884e3c6-f3c2-4064-8036-fdd1645c4e67" />
+
